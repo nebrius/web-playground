@@ -1,0 +1,11 @@
+{
+  "name": "web-playground",
+  "description": "Barebones project structure for quickly creating web projects",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
