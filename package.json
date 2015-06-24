@@ -1,6 +1,15 @@
 {
   "name": "web-playground",
   "description": "Barebones project structure for quickly creating web projects",
+  "author": "Bryan Hughes <bryan@theoreticalideations.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nebrius/web-playground.git"
+  },
+  "homepage": "https://github.com/nebrius/web-playground",
+  "bugs": {
+    "url": "https://github.com/nebrius/web-playground/issues"
+  },
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
